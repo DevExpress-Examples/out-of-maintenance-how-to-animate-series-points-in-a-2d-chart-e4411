@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/SeriesPointsAnimation/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/SeriesPointsAnimation/MainWindow.xaml))
+<!-- default file list end -->
 # How to animate series points in a 2D chart
 
 
