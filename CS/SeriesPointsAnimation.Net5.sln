@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeriesPointsAnimation", "SeriesPointsAnimation\SeriesPointsAnimation.csproj", "{14FCD75A-C7B0-47D6-855E-51610122604A}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeriesPointsAnimation", "SeriesPointsAnimation\SeriesPointsAnimation.Net5.csproj", "{14FCD75A-C7B0-47D6-855E-51610122604A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
